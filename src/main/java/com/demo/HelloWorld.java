@@ -9,7 +9,7 @@ import java.net.InetAddress;
 import java.net.InetSocketAddress;
 import java.time.LocalDateTime;
 
-public class Helloworld {
+public class HelloWorld {
 
     public static void main(String[] args) throws Exception {
 
